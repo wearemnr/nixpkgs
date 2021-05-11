@@ -24207,6 +24207,8 @@ in
 
   spectrwm = callPackage ../applications/window-managers/spectrwm { };
 
+  spot = callPackage ../applications/audio/spot { };
+
   spotify-cli-linux = callPackage ../applications/audio/spotify-cli-linux { };
 
   spotifyd = callPackage ../applications/audio/spotifyd {
