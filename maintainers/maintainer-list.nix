@@ -11557,4 +11557,14 @@
     github = "zupo";
     githubId = 311580;
   };
+  wearemnr = {
+    name = "wearemnr";
+    email = "wearemnr@pm.me";
+    github = "wearemnr";
+    githubId = 84216991;
+    keys = [{
+      longkeyid = "rsa4096/0x57ACCBC2EF186569";
+      fingerprint = "8446 8A86 646F CEAA 9FA2  B823 57AC CBC2 EF18 6569";
+    }];
+  };
 }
